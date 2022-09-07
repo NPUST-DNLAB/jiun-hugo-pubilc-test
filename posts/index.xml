@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on DNLAB New Hugo Site</title>
+    <link>https://npust-dnlab.github.io/jiun-hugo-pubilc-test/posts/</link>
+    <description>Recent content in Posts on DNLAB New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 07 Sep 2022 18:43:15 +0800</lastBuildDate><atom:link href="https://npust-dnlab.github.io/jiun-hugo-pubilc-test/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://npust-dnlab.github.io/jiun-hugo-pubilc-test/posts/my-first-post/</link>
+      <pubDate>Wed, 07 Sep 2022 18:43:15 +0800</pubDate>
+      
+      <guid>https://npust-dnlab.github.io/jiun-hugo-pubilc-test/posts/my-first-post/</guid>
+      <description>Hello DNLAB</description>
+    </item>
+    
+  </channel>
+</rss>
